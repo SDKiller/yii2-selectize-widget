@@ -1,3 +1,10 @@
+Dependency from yii2-bootstrap is removed here!
+===============================================
+
+Note that widget will rely on overriden yii\bootstrap\BootstrapPluginAsset!
+
+
+
 # Selectize JS Widget for Yii2
 
 [![Latest Version](https://img.shields.io/github/tag/2amigos/yii2-selectize-widget.svg?style=flat-square&label=release)](https://github.com/2amigos/yii2-selectize-widget/tags)
